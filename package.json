@@ -1,0 +1,20 @@
+{
+  "name": "my-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivankarvishwas/my-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivankarvishwas/my-data/issues"
+  },
+  "homepage": "https://github.com/shivankarvishwas/my-data#readme"
+}
